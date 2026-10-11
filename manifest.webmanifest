@@ -1,0 +1,16 @@
+{
+  "name": "GPS SEG RJ",
+  "short_name": "GPS SEG RJ",
+  "description": "Navegação com alertas de aproximação de áreas mapeadas",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101e2d",
+  "theme_color": "#101e2d",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
