@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "projeto": "GPS JEAN SEG RJ",
+    "versao": "4.0",
+    "cobertura_visual": "Estado do Rio de Janeiro",
+    "observacao": "Sem contornos territoriais verificados. O mapa visual de terceiros nao disponibiliza seus poligonos nem legendas para uso automatico. Nao inventar coordenadas."
+  },
+  "features": []
+}
